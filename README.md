@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0027-remove-element) |
+| [0074-search-a-2d-matrix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1528-shuffle-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/1528-shuffle-string) |
 ## Trie
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditiawasthi-0019/leetcode/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
