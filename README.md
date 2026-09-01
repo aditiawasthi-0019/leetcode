@@ -116,4 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditiawasthi-0019/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiawasthi-0019/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
