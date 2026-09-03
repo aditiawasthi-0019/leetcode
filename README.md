@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aditiawasthi-0019/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1528-shuffle-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/1528-shuffle-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiawasthi-0019/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Trie
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aditiawasthi-0019/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
