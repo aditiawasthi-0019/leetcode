@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiawasthi-0019/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditiawasthi-0019/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
