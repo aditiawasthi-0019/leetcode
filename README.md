@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditiawasthi-0019/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aditiawasthi-0019/leetcode/tree/master/0242-valid-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiawasthi-0019/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1528-shuffle-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/1528-shuffle-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiawasthi-0019/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -174,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/0338-counting-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
