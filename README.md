@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditiawasthi-0019/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiawasthi-0019/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aditiawasthi-0019/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
