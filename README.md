@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/aditiawasthi-0019/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/aditiawasthi-0019/leetcode/tree/master/0242-valid-anagram) |
 | [1528-shuffle-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/1528-shuffle-string) |
@@ -183,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/0338-counting-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditiawasthi-0019/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditiawasthi-0019/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
