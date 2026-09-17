@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiawasthi-0019/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/aditiawasthi-0019/leetcode/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditiawasthi-0019/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1528-shuffle-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/1528-shuffle-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/aditiawasthi-0019/leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiawasthi-0019/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditiawasthi-0019/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/aditiawasthi-0019/leetcode/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditiawasthi-0019/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Bracket Sequences
 |  |
