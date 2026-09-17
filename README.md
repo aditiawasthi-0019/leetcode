@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditiawasthi-0019/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/aditiawasthi-0019/leetcode/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/aditiawasthi-0019/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/1528-shuffle-string) |
 ## Sorting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aditiawasthi-0019/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditiawasthi-0019/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0844-backspace-string-compare](https://github.com/aditiawasthi-0019/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aditiawasthi-0019/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditiawasthi-0019/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiawasthi-0019/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/aditiawasthi-0019/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/aditiawasthi-0019/leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditiawasthi-0019/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditiawasthi-0019/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/aditiawasthi-0019/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/aditiawasthi-0019/leetcode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditiawasthi-0019/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditiawasthi-0019/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
