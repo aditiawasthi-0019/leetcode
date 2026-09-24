@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aditiawasthi-0019/leetcode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/aditiawasthi-0019/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiawasthi-0019/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditiawasthi-0019/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditiawasthi-0019/leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/aditiawasthi-0019/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiawasthi-0019/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/0338-counting-bits) |
