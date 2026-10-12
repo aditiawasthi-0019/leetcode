@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aditiawasthi-0019/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aditiawasthi-0019/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiawasthi-0019/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aditiawasthi-0019/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aditiawasthi-0019/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiawasthi-0019/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/aditiawasthi-0019/leetcode/tree/master/0682-baseball-game) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aditiawasthi-0019/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/aditiawasthi-0019/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aditiawasthi-0019/leetcode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditiawasthi-0019/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditiawasthi-0019/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/0338-counting-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Stack
