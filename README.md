@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditiawasthi-0019/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0414-third-maximum-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditiawasthi-0019/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiawasthi-0019/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/aditiawasthi-0019/leetcode/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditiawasthi-0019/leetcode/tree/master/0907-sum-of-subarray-minimums) |
