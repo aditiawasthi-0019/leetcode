@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aditiawasthi-0019/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/aditiawasthi-0019/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/aditiawasthi-0019/leetcode/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditiawasthi-0019/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/aditiawasthi-0019/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/aditiawasthi-0019/leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aditiawasthi-0019/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditiawasthi-0019/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditiawasthi-0019/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditiawasthi-0019/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
